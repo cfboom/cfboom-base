@@ -7,6 +7,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ----
 
+## [2.0.1] => 2021-AUG-02
+
+* Re-name packageDirectory to simply `cfboom`
+
 ## [2.0.0] => 2021-AUG-02
 
 * Create base module to hold all v2 cfboom modules.
