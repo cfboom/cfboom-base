@@ -1,7 +1,7 @@
 {
   "name": "CF Boom Base",
-  "version": "2.0.1",
-  "location": "https://github.com/cfboom/cfboom-base/releases/download/v2.0.1/cfboom-base-v2.0.1.zip",
+  "version": "2.0.2",
+  "location": "https://github.com/cfboom/cfboom-base/releases/download/v2.0.2/cfboom-base-v2.0.2.zip",
   "author": "Joel Tobey",
   "homepage": "https://github.com/cfboom/cfboom-base",
   "documentation": "https://github.com/cfboom/cfboom-base",
@@ -10,7 +10,7 @@
   "shortDescription": "Base ColdBox Module for CF Boom",
   "slug": "cfboom-base",
   "directory":"modules",
-  "packageDirectory": "cfboom",
+  "packageDirectory": "cfboom-base",
   "type": "modules",
   "keywords": "",
   "license": [

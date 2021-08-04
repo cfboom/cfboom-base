@@ -10,7 +10,7 @@ component
   this.author = "Joel Tobey";
   this.webURL = "https://github.com/cfboom/cfboom-base";
   this.description = "Base ColdBox Module for CF Boom";
-  this.version = "2.0.1";
+  this.version = "2.0.2";
 
   // If true, looks for views in the parent first, if not found, then in the module. Else vice-versa
   this.viewParentLookup = true;
@@ -25,10 +25,13 @@ component
   this.inheritEntryPoint = true;
 
   // Model Namespace
-  this.modelNamespace = "cfboom";
+  this.modelNamespace = "cfboom-base";
 
   // CF Mapping
   this.cfmapping = "cfboom";
+
+  // Auto-map models
+  this.autoMapModels = false;
 
   // Dependencies
   this.dependencies = [];
