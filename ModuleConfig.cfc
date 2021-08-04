@@ -1,5 +1,5 @@
 /**
- * Copyright Since 2012 Joel Tobey
+ * Copyright Since 2011 Joel Tobey
  * www.cfboom.io
  * ---
  */
